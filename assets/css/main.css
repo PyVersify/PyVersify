@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Source Sans Pro-Bold';
+    font-family: 'SourceSansPro-Bold';
     src: url('../fonts/SourceSansPro-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
@@ -9,5 +9,12 @@
     font-family: 'FluxRegular';
     src: url('../fonts/FluxRegular.woff') format('woff');
     font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Regular';
+    src: url('../fonts/SourceSansPro-Regular.woff') format('woff');
+    font-weight: regular;
     font-style: normal;
 }
