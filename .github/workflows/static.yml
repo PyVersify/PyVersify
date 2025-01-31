@@ -39,10 +39,7 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-
-      - name: Set NODE_OPTIONS
-        run: echo "NODE_OPTIONS=--openssl-legacy-provider" >> $GITHUB_ENV
-
+        
       - name: Build project
         run: npm run build
 
