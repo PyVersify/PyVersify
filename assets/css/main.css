@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Source Sans Pro-Bold';
+    src: url('../fonts/SourceSansPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FluxRegular';
+    src: url('../fonts/FluxRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
